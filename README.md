@@ -1,1 +1,1 @@
-This is my README.md file for odin-recipes. I already know how to create websites, but i'm refreshing my memory and starting from scratch.
+This is my README.md file for odin-recipes. I already know how to create websites, but i'm refreshing my memory and starting from scratch. I PROMISE I UNDERSTAND HTML! Just never studied Git. Oopsie. I'm self-taught.
